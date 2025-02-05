@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Informe #1: Mantenimiento de una laptop :computer:
 ## ¿Qué es una `laptop`? :technologist:
 Una laptop (o computadora portátil) es un dispositivo electrónico que nos permite realizar tareas como trabajar, estudiar, navegar en internet, ver películas, escuchar música y mucho más. La gran ventaja de una laptop es que es portátil, es decir, la puedes llevar contigo a cualquier lugar gracias a su diseño compacto y a que tiene una batería que le permite funcionar sin estar conectada a la corriente eléctrica por un tiempo limitado.
