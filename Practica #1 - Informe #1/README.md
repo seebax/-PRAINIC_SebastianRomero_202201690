@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Informe #1: Mantenimiento de una laptop :computer:
 ## ¿Qué es una `laptop`? :technologist:
 Una laptop (o computadora portátil) es un dispositivo electrónico que nos permite realizar tareas como trabajar, estudiar, navegar en internet, ver películas, escuchar música y mucho más. La gran ventaja de una laptop es que es portátil, es decir, la puedes llevar contigo a cualquier lugar gracias a su diseño compacto y a que tiene una batería que le permite funcionar sin estar conectada a la corriente eléctrica por un tiempo limitado.
@@ -33,6 +32,24 @@ Es donde se guardan todos los archivos, programas, fotos, videos, etc. Puede ser
 Las laptops tienen un ventilador que ayuda a mantenerlas frescas, ya que el procesador y otras partes generan calor cuando están en uso. Si el ventilador no funciona bien, la laptop puede sobrecalentarse.
 
 ##  :round_pushpin: Pasos básicos para un mantenimiento:
+
+### Materiales: 
+:triangular_flag_on_post: Hisopos (`bastoncillos, cotonetes, copitos`)
+
+:triangular_flag_on_post: Alcohol Isopropílico (`iPrOH o IPA`)
+
+:triangular_flag_on_post: Pasta Termica (`para procesadores`)
+
+:triangular_flag_on_post: Desarmadores de cruz (`segun su computadora`)
+
+:triangular_flag_on_post: Brochas (`diferentes medidas`)
+
+:triangular_flag_on_post: Trapos de fibra 
+
+<img src="https://github.com/user-attachments/assets/9a11bd1d-c85b-46c4-ad20-02d90cc94e55" alt="image" width="500" />
+
+:fast_forward: PASOS:
+
 :electric_plug: Apaga y desenchufa la laptop: Antes de abrirla, asegúrate de que esté completamente apagada y desconectada de la corriente. Retira la batería si es posible.
 
 :hammer_and_wrench: Limpia el polvo del ventilador y disipadores: Usa aire comprimido para eliminar el polvo acumulado en el ventilador y los disipadores de calor. Esto evita el sobrecalentamiento.
@@ -47,10 +64,29 @@ Las laptops tienen un ventilador que ayuda a mantenerlas frescas, ya que el proc
 
 <img src="https://github.com/user-attachments/assets/bca32f6d-d9c6-453d-a3aa-c0b4df90ec6d" alt="image" width="400" />
 
+Para una explicacion más exhaustiva puedes ver nuestro video de YouTube : :clapper: https://youtu.be/uEVn21THhHU
+
 ## Recomendaciones y Ayuda: 
+
+:hammer_and_pick: El problema que nos dio este equipo: sobrecalentamiento del equipo y arranque de 3-4  minutos para que reaccionara
+
+:gear: Solución: Le dimos su mantenimiento, ya que dimos cuenta que esta muy sucio, lleno de pelos, polvo y mota. Al igual que la pasta termica esta muy seca, haciendo que el procesador se sobrecalentara. Lipiamos todo y gracias a esto nuestro equipo mejoro dracticamente: los ventiladores funcionario de una mejor manera y el arranque fue de 1- 1.5 minutos, una notable diferencia entre como estaba y como la entragamos. 
+
+:shield: Recomendación que damos: para un funcionamiento más efectivos la compra de un disco de Estado Solido (SSD) ya que el que tiene es uno de estado Mecanico
 
 :warning: Lee la documentación de tu laptop: Antes de abrirla, consulta el manual de usuario o busca en internet información específica sobre tu modelo. Algunas laptops tienen diseños únicos que requieren cuidados especiales.
 
 ⚠️ Trabaja en un espacio limpio y ordenado: Evita la estática y la pérdida de tornillos trabajando en una superficie limpia y usando una bandeja para organizar las piezas.
 
 ⚠️ Si no te sientes seguro, busca ayuda profesional: Si no tienes experiencia en desarmar laptops, es mejor que un técnico especializado realice el mantenimiento interno.
+
+
+### PROMPT: 
+:pushpin: Prompt donde se le solicito la información para Hacer el Manual
+
+<img src="https://github.com/user-attachments/assets/d91b6b24-889e-4695-ac43-5da51fd3b003" alt="image" width="500" />
+
+:pushpin: Prompt donde se le solicito los pasos minimos o basicós para el mantenimiento de una laptop 
+
+<img src="https://github.com/user-attachments/assets/14416b4b-b6c3-4049-bae1-99be0a2add2e" alt="image" width="500" />
+
