@@ -64,7 +64,7 @@ Las laptops tienen un ventilador que ayuda a mantenerlas frescas, ya que el proc
 
 <img src="https://github.com/user-attachments/assets/bca32f6d-d9c6-453d-a3aa-c0b4df90ec6d" alt="image" width="400" />
 
-Para una explicacion más exhaustiva puedes ver nuestro video de YouTube : :clapper: https://youtu.be/uEVn21THhHU
+Para una explicacion más exhaustiva puedes ver nuestro video de YouTube : :clapper: https://youtu.be/m6vOX8giPgI
 
 ## Recomendaciones y Ayuda: 
 
