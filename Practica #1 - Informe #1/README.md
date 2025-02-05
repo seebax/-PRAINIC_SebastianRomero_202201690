@@ -81,16 +81,6 @@ Para una explicacion más exhaustiva puedes ver nuestro video de YouTube : :clap
 ⚠️ Si no te sientes seguro, busca ayuda profesional: Si no tienes experiencia en desarmar laptops, es mejor que un técnico especializado realice el mantenimiento interno.
 
 
-### PROMPT: 
-:pushpin: Prompt donde se le solicito la información para Hacer el Manual
-
-<img src="https://github.com/user-attachments/assets/d91b6b24-889e-4695-ac43-5da51fd3b003" alt="image" width="500" />
-
-:pushpin: Prompt donde se le solicito los pasos minimos o basicós para el mantenimiento de una laptop 
-
-<img src="https://github.com/user-attachments/assets/14416b4b-b6c3-4049-bae1-99be0a2add2e" alt="image" width="500" />
-
-
 🎈 `Link de la presentacion del Manual:` https://www.canva.com/design/DAGd1LX-mLQ/vsKHMOwV2MAtVqtDA2u1Ug/edit?utm_content=DAGd1LX-mLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 🎈 `Link del trifolear:` https://www.canva.com/design/DAGd6ZjPCkE/cMuPzZxEz8Ths1jRGXplVQ/edit?utm_content=DAGd6ZjPCkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
