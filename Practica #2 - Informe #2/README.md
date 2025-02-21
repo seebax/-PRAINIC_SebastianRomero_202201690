@@ -1,5 +1,5 @@
 # Informe #2: Instalación y Redes ⚙️
-## Primero video: 
+## Primero video 📹: 
 https://youtu.be/ifD_cbngTEM
-## Segundo video: 
+## Segundo video 📹: 
 https://youtu.be/ifD_cbngTEM
